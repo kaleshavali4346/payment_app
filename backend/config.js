@@ -1,3 +1,5 @@
-const JWT_SCRET ="kaleshascret";
 
-module.exports=JWT_SCRET;
+
+module.exports={
+    JWT_SECRET:"kaleshajwt"
+}
